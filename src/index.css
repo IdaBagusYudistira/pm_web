@@ -11,14 +11,19 @@ header {
     font-size: large;
 }
 
-github {
+#main {
     border: 3px solid black;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
+
+.social {
     text-align: center;
     color: darkblue;
 }
 
-yudis {
-    border: 3px solid black;
+.profile {
     text-align: center;
     color: darkred;
 }
