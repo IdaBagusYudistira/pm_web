@@ -1,0 +1,24 @@
+body {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+header {
+    border: 3px solid black;
+    text-align: center;
+    color: black;
+    font-size: large;
+}
+
+github {
+    border: 3px solid black;
+    text-align: center;
+    color: darkblue;
+}
+
+yudis {
+    border: 3px solid black;
+    text-align: center;
+    color: darkred;
+}
