@@ -1,0 +1,21 @@
+body {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+header {
+    position: sticky;
+    border: 3px solid darkblue;
+    text-align: center;
+    color: black;
+    font-size: large;
+}
+
+#main {
+    border: 3px solid darkblue;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
